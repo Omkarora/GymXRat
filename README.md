@@ -1,1 +1,2 @@
 # GymXRat
+My CDAC project focused on developing an advanced Gym Management System. This comprehensive solution streamlined tasks such as member registration, class scheduling, equipment management, and customer feedback. Leveraging technologies like Hibernate, Spring Boot, and MySQL for the backend, and ReactJS, Bootstrap, and JavaScript for the frontend, our project aimed to enhance operational efficiency, improve member experience, and simplify gym administration.
